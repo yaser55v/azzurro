@@ -254,3 +254,6 @@ export default {
 }
 };
 </script>
+<style>
+@import "https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css";
+</style>

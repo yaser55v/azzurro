@@ -9,12 +9,14 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "dayjs": "^1.8.30",
     "vue": "^2.6.11",
     "vue-hotel-datepicker": "^3.0.10",
     "vue-router": "^3.2.0",
     "vue-tailwind-picker": "^1.1.4",
     "vue-videobg": "^2.0.0",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.2.11",
+    "vuetify-video-parallax": "^1.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
