@@ -76,7 +76,7 @@
           <v-img
             :src="require('../assets/img/home/adv-4.jpg')"
             class="white--text align-center"
-            gradient="to bottom , rgba(0,0,0,.6), rgba(0,0,0,.5)"
+            gradient="to bottom , rgba(0,0,0,.7), rgba(0,0,0,.5)"
             height="300px"
           >
             <h2 class="text-center font-size">Natural</h2>
